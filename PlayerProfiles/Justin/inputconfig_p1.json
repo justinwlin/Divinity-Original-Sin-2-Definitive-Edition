@@ -1,0 +1,8 @@
+{
+   "CameraCenter" : [ "key:space" ],
+   "CameraRotateLeft" : [ "c:rightstick_xpos", "key:," ],
+   "CameraRotateRight" : [ "c:rightstick_xneg", "key:." ],
+   "ToggleGMPause" : [],
+   "UIEndTurn" : [ "c:b", "key:unknown" ],
+   "UITakeAll" : [ "c:y", "key:unknown" ]
+}

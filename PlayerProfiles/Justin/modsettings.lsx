@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+    <header version="2" />
+    <version major="3" minor="6" revision="9" build="0" />
+    <region id="ModuleSettings">
+        <node id="root">
+            <children>
+                <node id="ModOrder">
+                    <children>
+                        <node id="Module">
+                            <attribute id="UUID" value="7f897ce0-350a-c464-17e0-8c6a6a0b973e" type="22" />
+                        </node>
+                        <node id="Module">
+                            <attribute id="UUID" value="4bcb0f56-d4dd-4241-9285-0f5710913edb" type="22" />
+                        </node>
+                        <node id="Module">
+                            <attribute id="UUID" value="48cb4f59-b33f-d55d-4b84-d671e9f2f74d" type="22" />
+                        </node>
+                        <node id="Module">
+                            <attribute id="UUID" value="21745a4a-f8f7-4fea-9ddf-e95590bcb2d4" type="22" />
+                        </node>
+                        <node id="Module">
+                            <attribute id="UUID" value="e533f740-990e-47aa-8ed9-3534f52c4f01" type="22" />
+                        </node>
+                        <node id="Module">
+                            <attribute id="UUID" value="6f5b4810-bb52-4bff-9eb0-3afcf7856045" type="22" />
+                        </node>
+                        <node id="Module">
+                            <attribute id="UUID" value="1cb6dd66-021c-4d69-b78f-7162ffb4e7bf" type="22" />
+                        </node>
+                        <node id="Module">
+                            <attribute id="UUID" value="0aaff3e4-a7eb-47f9-b376-0a886a6fb6d3" type="22" />
+                        </node>
+                        <node id="Module">
+                            <attribute id="UUID" value="0e8fce66-abd2-486c-b0c7-40e8fe71c236" type="22" />
+                        </node>
+                        <node id="Module">
+                            <attribute id="UUID" value="8700ba4e-7d4b-40ca-a23f-b43816794957" type="22" />
+                        </node>
+                    </children>
+                </node>
+                <node id="Mods">
+                    <children>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" value="DivinityOrigins_1301db3d-1f54-4e98-9be5-5094030916e4" type="30" />
+                            <attribute id="MD5" value="73d13f95607b70c953cc32e56d62b7d7" type="23" />
+                            <attribute id="Name" value="Divinity: Original Sin 2" type="22" />
+                            <attribute id="UUID" value="1301db3d-1f54-4e98-9be5-5094030916e4" type="22" />
+                            <attribute id="Version" value="373234071" type="4" />
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" value="LadyC_LevelUpAllEquipment_1cb69965-4b7a-4b00-a447-044b3546ccb1" type="30" />
+                            <attribute id="MD5" value="" type="23" />
+                            <attribute id="Name" value="LadyC - Level Up All Equipment - Including Uniques [Definitive Edition]" type="22" />
+                            <attribute id="UUID" value="7f897ce0-350a-c464-17e0-8c6a6a0b973e" type="22" />
+                            <attribute id="Version" value="302120960" type="4" />
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" value="OdinCore_4bcb0f56-d4dd-4241-9285-0f5710913edb" type="30" />
+                            <attribute id="MD5" value="" type="23" />
+                            <attribute id="Name" value="OdinCore - Mod Services" type="22" />
+                            <attribute id="UUID" value="4bcb0f56-d4dd-4241-9285-0f5710913edb" type="22" />
+                            <attribute id="Version" value="302317568" type="4" />
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" value="CheatCommander_ccb5167c-6c69-4132-8aa9-1ab6618af35b" type="30" />
+                            <attribute id="MD5" value="" type="23" />
+                            <attribute id="Name" value="The Cheat Commander" type="22" />
+                            <attribute id="UUID" value="48cb4f59-b33f-d55d-4b84-d671e9f2f74d" type="22" />
+                            <attribute id="Version" value="536870962" type="4" />
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" value="FNX_FeenexCore_21745a4a-f8f7-4fea-9ddf-e95590bcb2d4" type="30" />
+                            <attribute id="MD5" value="" type="23" />
+                            <attribute id="Name" value="Feenex Core - Mod Library " type="22" />
+                            <attribute id="UUID" value="21745a4a-f8f7-4fea-9ddf-e95590bcb2d4" type="22" />
+                            <attribute id="Version" value="268435464" type="4" />
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" value="MonkClass_e533f740-990e-47aa-8ed9-3534f52c4f01" type="30" />
+                            <attribute id="MD5" value="" type="23" />
+                            <attribute id="Name" value="Feenex&apos;s Battle Pack: Definitive Edition" type="22" />
+                            <attribute id="UUID" value="e533f740-990e-47aa-8ed9-3534f52c4f01" type="22" />
+                            <attribute id="Version" value="1661075459" type="4" />
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" value="BattlePackExpanded_6f5b4810-bb52-4bff-9eb0-3afcf7856045" type="30" />
+                            <attribute id="MD5" value="" type="23" />
+                            <attribute id="Name" value="Feenex&apos;s Battle Pack: Expanded" type="22" />
+                            <attribute id="UUID" value="6f5b4810-bb52-4bff-9eb0-3afcf7856045" type="22" />
+                            <attribute id="Version" value="301989894" type="4" />
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" value="BattlePackShapeshifting_1cb6dd66-021c-4d69-b78f-7162ffb4e7bf" type="30" />
+                            <attribute id="MD5" value="" type="23" />
+                            <attribute id="Name" value="Feenex&apos;s Battle Pack: Shapeshifting" type="22" />
+                            <attribute id="UUID" value="1cb6dd66-021c-4d69-b78f-7162ffb4e7bf" type="22" />
+                            <attribute id="Version" value="268632068" type="4" />
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" value="OdinbladeAeroAddOnPhysicalTeleport_0aaff3e4-a7eb-47f9-b376-0a886a6fb6d3" type="30" />
+                            <attribute id="MD5" value="" type="23" />
+                            <attribute id="Name" value="Odinblade&apos;s Aerotheurge Class Overhaul Add-On - Physical Teleportation" type="22" />
+                            <attribute id="UUID" value="0aaff3e4-a7eb-47f9-b376-0a886a6fb6d3" type="22" />
+                            <attribute id="Version" value="268435456" type="4" />
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" value="OdinbladeBetterSummonScaling_0e8fce66-abd2-486c-b0c7-40e8fe71c236" type="30" />
+                            <attribute id="MD5" value="" type="23" />
+                            <attribute id="Name" value="Odinblade&apos;s Enhanced Summon Scaling" type="22" />
+                            <attribute id="UUID" value="0e8fce66-abd2-486c-b0c7-40e8fe71c236" type="22" />
+                            <attribute id="Version" value="285343744" type="4" />
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" value="OdinbladeNecromancerOverhaul_8700ba4e-7d4b-40ca-a23f-b43816794957" type="30" />
+                            <attribute id="MD5" value="" type="23" />
+                            <attribute id="Name" value="Odinblade&apos;s Necromancer Class Overhaul" type="22" />
+                            <attribute id="UUID" value="8700ba4e-7d4b-40ca-a23f-b43816794957" type="22" />
+                            <attribute id="Version" value="269090816" type="4" />
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" value="Shared" type="30" />
+                            <attribute id="MD5" value="bbe5db70bb4fb88387fb2319428a6995" type="23" />
+                            <attribute id="Name" value="Shared" type="22" />
+                            <attribute id="UUID" value="2bd9bdbe-22ae-4aa2-9c93-205880fc6564" type="22" />
+                            <attribute id="Version" value="389028377" type="4" />
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" value="Shared_DOS" type="30" />
+                            <attribute id="MD5" value="51f45a5233f4b8a45b8a8ab71eccbc30" type="23" />
+                            <attribute id="Name" value="Shared_DOS" type="22" />
+                            <attribute id="UUID" value="eedf7638-36ff-4f26-a50a-076b87d53ba0" type="22" />
+                            <attribute id="Version" value="268435456" type="4" />
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
